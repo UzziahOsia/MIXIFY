@@ -8,7 +8,7 @@ var musicDB = {
     { name: "Dull - Asake", rating: "", url: ""},
     { name: "Yoga - Asake", rating: "5/5", url: ""},
     { name: "Sungba - Asake", rating: "4/5", url: ""},
-    { name: "Nzaza - Asake", rating: "4/5", url: ""},
+    { name: "Nzaza - Asake", rating: "4/5", url: "https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b?si=f9aabf0b01aa4662"},
     { name: "Unavailable - Davido", rating: "5/5", url: ""},
     { name: "Over Dem - Davido", rating: "5/5", url: ""},
     { name: "Feel - Davido", rating: "4/5", url: ""},
@@ -29,7 +29,7 @@ var musicDB = {
     { name: "Dull", rating: "", url: ""},
     { name: "Yoga", rating: "5/5", url: ""},
     { name: "Sungba", rating: "4/5", url: ""},
-    { name: "Nzaza", rating: "4/5", url: ""}
+    { name: "Nzaza", rating: "4/5", url: "https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b?si=f9aabf0b01aa4662"}
   ],
   Davido: [
     { name: "Unavailable", rating: "5/5", url: ""},
