@@ -18,14 +18,14 @@ h1 {
 }
 
 .App-header {
-  background-color: #ecfdf5;
+  background-color: #c3e0d5;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #26272b;
+  color: rgb(224, 224, 224);
 }
 
 .App-link {
