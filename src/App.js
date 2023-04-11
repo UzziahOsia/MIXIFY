@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Profile from "./pages/Profile";
-import App from "./Pages/Song";
+import "./Pages/Song";
 
 function App() {
   return (
