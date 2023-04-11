@@ -8,7 +8,7 @@
 }
 
 h1 {
-  color: #0d30a1;
+  color: #26272b;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -18,7 +18,7 @@ h1 {
 }
 
 .App-header {
-  background-color: #ffffff;
+  background-color: #90e2c3;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
