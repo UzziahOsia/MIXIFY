@@ -65,7 +65,7 @@ export default function App() {
 
       <h1>Mixify</h1>
       <p style={{ fontSize: "medium" }}>
-        Checkout my favorite songs. Select an artist to get started
+        Checkout recommendations as per Nigerian artistes
       </p>
       <div>
         {Object.keys(musicDB).map((artistName) => (
@@ -93,11 +93,11 @@ export default function App() {
             style={{
               listStyle: "none",
               padding: "1rem",
-              border: "2px solid #059669",
+              border: "2px solid #065F46",
               width: "70%",
               margin: "1rem 0rem",
               borderRadius: "0.7rem",
-              background: "#059669"
+              background: "#ecfdf5"
             }}
             >
               <a href={song.url} style={{ fontSize: "large", color: "white" }}>{song.name}</a>
