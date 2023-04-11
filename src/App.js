@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Profile from "./Pages/Profile";
-import Song from "./Pages/Song";
+import Recommendation from "./Pages/Song";
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
             <Profile />
           </Route>
           <Route path="/song">
-            <Song />
+            <Recommendation />
           </Route> 
         </Switch>
       </div>
