@@ -1,1 +1,1 @@
-This is our portfolioi project for the ALX SE Foundations Program
+This is our portfolio project for the ALX SE Foundations Program
