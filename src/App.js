@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Profile from "./Pages/Profile";
-import "./Pages/Song";
+import Song from "./Pages/Song";
 
 function App() {
   return (
@@ -23,6 +23,9 @@ function App() {
           <Route path="/profile/:name">
             <Profile />
           </Route>
+          <Route path="/song">
+            <Song />
+          </Route> 
         </Switch>
       </div>
     </BrowserRouter>
