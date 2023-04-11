@@ -4,7 +4,7 @@ import { useState } from "react";
 
 var musicDB = {
   Continue: [
-    All: [
+    {All: [
     { name: "Joha - Asake", rating: "5/5", url: ""},
     { name: "Dull - Asake", rating: "", url: ""},
     { name: "Yoga - Asake", rating: "5/5", url: ""},
@@ -51,7 +51,7 @@ var musicDB = {
     { name: "Last Last", rating: "4/5", url: ""},
     { name: "Way Too Big", rating: "5/5", url: ""},
     { name: "Anybody", rating: "5/5", url: ""}
-  ],
+  ]},
   ],
 };
 
