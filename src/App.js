@@ -93,11 +93,11 @@ export default function App() {
             style={{
               listStyle: "none",
               padding: "1rem",
-              border: "2px solid #15171b",
+              border: "2px solid #059669",
               width: "70%",
               margin: "1rem 0rem",
               borderRadius: "0.7rem",
-              background: "#15171b"
+              background: "#059669"
             }}
             >
               <a href={song.url} style={{ fontSize: "large", color: "white" }}>{song.name}</a>
