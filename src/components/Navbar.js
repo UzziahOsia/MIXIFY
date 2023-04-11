@@ -4,8 +4,6 @@ import { NavLink, withRouter } from "react-router-dom";
 const Navbar = ({ history }) => {
   const [isOpen, setOpen] = useState(false);
 
-  const isAuth = !!localStorage.getItem("token");
-
   return (
     <nav
       className="navbar is-primary"
