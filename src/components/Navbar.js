@@ -71,7 +71,6 @@ const Navbar = ({ history }) => {
             </div>
           </div>
         </div>
-      </div>
     </nav>
   );
 };
