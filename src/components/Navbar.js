@@ -24,8 +24,8 @@ const Navbar = ({ history }) => {
     >
       <div className="container">
         <div className="navbar-brand">
-          <a
-            role="button"
+          <button
+            type="button"
             className={`navbar-burger burger ${isOpen && "is-active"}`}
             aria-label="menu"
             aria-expanded="false"
@@ -34,7 +34,7 @@ const Navbar = ({ history }) => {
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
-          </a>
+          </button>
         </div>
 
         <div className={`navbar-menu ${isOpen && "is-active"}`}>
