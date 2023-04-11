@@ -39,12 +39,12 @@ var musicDB = {
     { name: "Godfather", rating: "4/5", url: ""},
     { name: "Kante", rating: "4/5", url: ""}
   ],
-  Ayra Starr: [
+  AyraStarr: [
     { name: "Bloody Samaritan", rating: "5/5", url: ""},
     { name: "Rush", rating: "4/5", url: ""},
     { name: "Sabilty", rating: "4/5", url: ""}
   ],
-  Burna Boy: [
+  BurnaBoy: [
     { name: "Common Person", rating: "5/5", url: ""},
     { name: "For my Hand", rating: "4/5", url: ""},
     { name: "Last Last", rating: "4/5", url: ""},
