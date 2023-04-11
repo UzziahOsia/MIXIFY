@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can try the website [here](https://music-recommendations-by-ashu.netlify.app/).
+You can try the website [here](https://naijaspark.netlify.app/).
 
 ## Available Scripts
 
