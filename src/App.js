@@ -2,6 +2,19 @@ import "./App.css";
 import React from "react";
 import { useState } from "react";
 
+var musicDB = {
+  All: [
+  ],
+  Asake: [
+  ],
+  Davido: [
+  ],
+  Ayra ,Starr: [
+  ],
+  Burna ,Boy: [
+  ],
+};
+
 export default function App() {
   const [selectedArtist, setSelectedArtist] = useState("All");
 
