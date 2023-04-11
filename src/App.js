@@ -63,7 +63,7 @@ export default function App() {
     <div className="App">
       <div className="App-header">
 
-      <h1>Mixify</h1>
+      <h1>Naija Spark</h1>
       <p style={{ fontSize: "medium" }}>
         Checkout our music recommendations by different Nigerian artistes
       </p>
