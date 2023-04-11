@@ -9,9 +9,9 @@ var musicDB = {
   ],
   Davido: [
   ],
-  Ayra ,Starr: [
+  Ayra,Starr: [
   ],
-  Burna ,Boy: [
+  Burna,Boy: [
   ],
 };
 
