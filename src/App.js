@@ -65,7 +65,7 @@ export default function App() {
 
       <h1>Mixify</h1>
       <p style={{ fontSize: "medium" }}>
-        Checkout recommendations as per Nigerian artistes
+        Checkout our music recommendations by different Nigerian artistes
       </p>
       <div>
         {Object.keys(musicDB).map((artistName) => (
