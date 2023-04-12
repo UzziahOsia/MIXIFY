@@ -2,8 +2,7 @@ import React, { useState } from "react";
 import { NavLink, withRouter } from "react-router-dom";
 
 const Navbar = ({ history }) => {
-  const [isOpen, setOpen] = useState(false);
-  
+    
     return (
     <nav
       className="navbar is-primary"
