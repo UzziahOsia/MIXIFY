@@ -1,5 +1,6 @@
 import React from "react";
 
+document.body.style.backgroundImage = "url('treble-clef-5834784_1920.png')";
 const Home = () => (
   <div>
     <h1 className="title is-1">Naija Spark</h1>
