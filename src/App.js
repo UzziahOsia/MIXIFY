@@ -20,7 +20,7 @@ function App() {
             <About />
           </Route>
           <Route path="/song">
-            <Profile />
+            <Song />
           </Route>
         </Switch>
       </div>
