@@ -3,7 +3,16 @@ import React from "react";
 
 const Home = () => (
   <div>
-    <h1 className="title is-1">Naija Spark</h1>
+    <h1 style={{
+            cursor: "pointer",
+            background: "#059669",
+            borderRadius: "1rem",
+            padding: "0.9rem  1.5rem",
+            border: "2px solid #065F46",
+            margin: "1rem 0.3rem",
+            color: "white"
+            }}
+            className="title is-1">Naija Spark</h1>
     <p 
     style={{
             cursor: "pointer",
