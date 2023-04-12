@@ -12,20 +12,20 @@ const About = () => (
     </p>
     <h4>Uzziah Osia</h4>
     <p>
-      Linkedin: <a href="https://www.linkedin.com/in/uzziah-osia/">Click Here</a>
+      Linkedin Profile: <a href="https://www.linkedin.com/in/uzziah-osia-8583a2197/">Click Here</a>
     </p>
     <p>
-      Twitter: <a href="https://twitter.com/UzziahOsia">Click Here</a>
+      Twitter Profile: <a href="https://twitter.com/UzziahOsia">Click Here</a>
     </p>
     <p>
-      Github: <a href="https://github.com/UzziahOsia/">Click Here</a>
+      Github Profile: <a href="https://github.com/UzziahOsia/">Click Here</a>
     </p>
     <h4>Samuel Amiaka</h4>
     <p>
-      Linkedin: <a href="https://www.linkedin.com/in/samuel-amiaka/">Click Here</a>
+      Linkedin Profile: <a href="https://www.linkedin.com/in/samuel-amiaka/">Click Here</a>
     </p>
     <p>
-      Github: <a href="https://github.com/SamuelAmiaka">Click Here</a>
+      Github Profile: <a href="https://github.com/SamuelAmiaka">Click Here</a>
     </p>
   </div>
 );
