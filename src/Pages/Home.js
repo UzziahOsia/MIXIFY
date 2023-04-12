@@ -22,10 +22,10 @@ const Home = () => (
             border: "2px solid #065F46",
             margin: "1rem 0.3rem",
             color: "white"
-            }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras gravida,
-      risus at dapibus aliquet, elit quam scelerisque tortor, nec accumsan eros
-      nulla interdum justo. Pellentesque dignissim, sapien et congue rutrum,
-      lorem tortor dapibus turpis, sit amet vestibulum eros mi et odio.
+            }}>Discover your next favorite song with our music recommender app. 
+            Our algorithm analyzes your listening habits and suggests new tracks tailored to your tastes. 
+            With a vast library of songs from different genres and eras, you'll never run out of options. 
+            Save your favorite tracks and create playlists for any occasion. Start exploring new music today with our app.
     </p>
   </div>
 );
