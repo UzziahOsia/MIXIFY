@@ -1,9 +1,14 @@
 body{
   background-image: url(treble-clef-5834784_640.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .Home {
   text-align: center;
+  width: 50%;
+  backgrund-colour: #ECFDF5;
 }
 
 .Song-logo {
