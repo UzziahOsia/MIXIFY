@@ -54,7 +54,6 @@ import { NavLink, withRouter } from "react-router-dom";
             </div>
           </div>
         </div>
-    </nav>
   );
 };
 
