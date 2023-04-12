@@ -1,6 +1,9 @@
 import React from "react";
 
 const Home = () => (
+  <style>
+    body {background-image: url('treble-clef-5834784_1920.png');}
+  </style>
   <div>
     <h1 className="title is-1">Naija Spark</h1>
     <p>Discover your next favorite song with our music recommender app.</p>
@@ -8,11 +11,7 @@ const Home = () => (
     <p>With a vast library of songs from different genres and eras, you'll never run out of options.</p>
     <p>Save your favorite tracks and create playlists for any occasion. Start exploring new music today with our app.</p>
     <p>Created by Uzziah Osia and Samuel Amiaka</p>
-  <style>
-  body {
-  background-image: url('treble-clef-5834784_1920.png');
-  }
-</style>
+  
   </div>
 );
 
