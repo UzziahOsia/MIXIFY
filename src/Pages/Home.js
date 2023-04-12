@@ -2,12 +2,12 @@ import React from "react";
 
 const Home = () => (
   <div>
-    <h1 className="title is-1">This is the Home Page</h1>
+    <h1 className="title is-1">Naija Spark</h1>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras gravida,
-      risus at dapibus aliquet, elit quam scelerisque tortor, nec accumsan eros
-      nulla interdum justo. Pellentesque dignissim, sapien et congue rutrum,
-      lorem tortor dapibus turpis, sit amet vestibulum eros mi et odio.
+      Discover your next favorite song with our music recommender app. 
+      Our algorithm analyzes your listening habits and suggests new tracks tailored to your tastes.
+      With a vast library of songs from different genres and eras, you'll never run out of options. 
+      Save your favorite tracks and create playlists for any occasion. Start exploring new music today with our app.
     </p>
   </div>
 );
