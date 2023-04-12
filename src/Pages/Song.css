@@ -25,7 +25,7 @@ h1 {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(224, 224, 224);
+  color: #26272b;
 }
 
 .Song-link {
