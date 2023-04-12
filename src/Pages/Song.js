@@ -63,7 +63,7 @@ export default function Song() {
     <div className="Song">
       <div className="Song-header">
 
-      <h1>Mixify</h1>
+      <h1>Naija Spark</h1>
       <p style={{ fontSize: "medium" }}>
         Checkout my favorite songs. Select an artist to get started
       </p>
