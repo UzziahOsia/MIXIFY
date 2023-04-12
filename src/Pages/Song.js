@@ -5,7 +5,7 @@ import { useState } from "react";
 var musicDB = {
   All: [
     { name: "Joha - Asake", rating: "5/5", url: "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu?si=9020933d060e4a80"},
-    { name: "Dull - Asake", rating: "", url: "https://open.spotify.com/track/46gfN72BxmLvACx6Pve4XU?si=8a400d89f8a54cfe"},
+    { name: "Dull - Asake", rating: "5/5", url: "https://open.spotify.com/track/46gfN72BxmLvACx6Pve4XU?si=8a400d89f8a54cfe"},
     { name: "Yoga - Asake", rating: "5/5", url: "https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa?si=9473fa1494f24b42"},
     { name: "Sungba - Asake", rating: "4/5", url: "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS?si=76d4429d19784cce"},
     { name: "Nzaza - Asake", rating: "4/5", url: "https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b?si=c55f29fed519484a"},
