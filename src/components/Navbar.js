@@ -11,7 +11,7 @@ const Navbar = ({ history }) => {
     >
       <div className="container">
         
-        <div className={`navbar-menu ${isOpen && "is-active"}`}>
+        <div className={`navbar-menu`}>
           <div className="navbar-start">
             <NavLink
               className="navbar-item"
