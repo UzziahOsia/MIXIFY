@@ -11,9 +11,7 @@ const Home = () => (
     <p>Created by Uzziah Osia and Samuel Amiaka</p>
     <div>
       <style>
-        body {
-        background-image: url('treble-clef-5834784_1920.png');
-      }
+        body {background-image: url('treble-clef-5834784_1920.png');}
       </style>
     </div>
   </div>
