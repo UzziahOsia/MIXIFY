@@ -1,5 +1,5 @@
 body{
-  background-image: url(treble-clef-5834784_1920.png);
+  background-image: url(treble-clef-5834784_640.png);
 }
 
 .Home {
@@ -11,7 +11,7 @@ body{
   pointer-events: none;
 }
 
-h1 {
+h1, p {
   color: #26272b;
   text-align: center;
 }
