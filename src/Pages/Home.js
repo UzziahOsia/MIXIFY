@@ -15,6 +15,19 @@ const Home = () => (
     <p>
       Save your favorite tracks and create playlists for any occasion. Start exploring new music today with our app.
     </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p> 
+    </p>
+    <p> 
+    </p>
+    <p>
+    Created by Uzziah Osia and Samuel Amiaka  
+    </p>
   </div>
 );
 
