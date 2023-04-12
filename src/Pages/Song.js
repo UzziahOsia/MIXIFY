@@ -100,7 +100,7 @@ export default function Song() {
               background: "#ECFDF5"
             }}
             >
-              <a href={song.url} style={{ fontSize: "large", color: "#ECFDF5" }}>{song.name}</a>
+              <a href={song.url} style={{ fontSize: "large", color: "#065F46" }}>{song.name}</a>
               <div style={{ fontSize: "large" }}>{song.rating}</div>
             </li>
           ))}
