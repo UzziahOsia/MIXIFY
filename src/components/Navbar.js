@@ -56,3 +56,7 @@ const Navbar = ({ history }) => {
         </div>
       </div>
     </nav>
+   );
+};
+
+export default withRouter(Navbar);
