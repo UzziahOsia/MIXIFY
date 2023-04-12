@@ -3,8 +3,8 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
 
-import Home from "./pages/Home";
-import About from "./pages/About";
+import Home from "./Pages/Home";
+import About from "./Pages/About";
 import Song from "./Pages/Song";
 
 function App() {
