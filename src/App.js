@@ -5,8 +5,7 @@ import Navbar from "./components/Navbar";
 
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Profile from "./pages/Profile";
-import App from "./Pages/Song";
+import Song from "./Pages/Song";
 
 function App() {
   return (
@@ -20,7 +19,7 @@ function App() {
           <Route path="/about">
             <About />
           </Route>
-          <Route path="/profile/:name">
+          <Route path="/song">
             <Profile />
           </Route>
         </Switch>
