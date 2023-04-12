@@ -8,7 +8,6 @@ const Home = () => (
     <p>Our algorithm analyzes your listening habits and suggests new tracks tailored to your tastes.</p>
     <p>With a vast library of songs from different genres and eras, you'll never run out of options.</p>
     <p>Save your favorite tracks and create playlists for any occasion. Start exploring new music today with our app.</p>
-    <p style="background-image: url('img_girl.jpg');">
     <footer>
       <p>Created by Uzziah Osia and Samuel Amiaka</p>
     </footer>
