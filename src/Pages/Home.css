@@ -1,24 +1,46 @@
-import "./Home.css";
-import React from "react";
+.Home {
+  text-align: center;
+}
 
-const Home = () => (
-  <div>
-    <h1 className="title is-1">Naija Spark</h1>
-    <p 
-    style={{
-            cursor: "pointer",
-            background: "#059669",
-            borderRadius: "1rem",
-            padding: "0.9rem  1.5rem",
-            border: "2px solid #065F46",
-            margin: "1rem 0.3rem",
-            color: "white"
-            }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras gravida,
-      risus at dapibus aliquet, elit quam scelerisque tortor, nec accumsan eros
-      nulla interdum justo. Pellentesque dignissim, sapien et congue rutrum,
-      lorem tortor dapibus turpis, sit amet vestibulum eros mi et odio.
-    </p>
-  </div>
-);
+.Home-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
 
-export default Home;
+h1 {
+  color: #26272b;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Home-logo {
+    animation: Song-logo-spin infinite 20s linear;
+  }
+}
+
+.Home-header {
+  background-color: #c3e0d5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(224, 224, 224);
+}
+
+.Home-link {
+  color: #61dafb;
+}
+
+@keyframes Home-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+li{
+  text-align: center;
+}
