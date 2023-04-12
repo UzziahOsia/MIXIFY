@@ -2,9 +2,7 @@ import React from "react";
 
 const Home = () => (
   
-    body {background-image: url('treble-clef-5834784_1920.png');}
-  
-  <div>
+   <div>
     <h1 className="title is-1">Naija Spark</h1>
     <p>Discover your next favorite song with our music recommender app.</p>
     <p>Our algorithm analyzes your listening habits and suggests new tracks tailored to your tastes.</p>
