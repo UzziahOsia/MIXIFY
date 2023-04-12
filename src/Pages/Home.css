@@ -2,7 +2,6 @@ body{
   background-image: url(treble-clef-5834784_640.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
 }
 
 .Home {
@@ -16,7 +15,7 @@ body{
   pointer-events: none;
 }
 
-h1, p {
+h1, h4, p {
   color: #26272b;
   text-align: center;
 }
